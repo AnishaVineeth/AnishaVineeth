@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnishaVineeth
-- 👀 I’m interested in Flutter Development
+- 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning different areas in Flutter
-- 💞️ I’m looking to collaborate on doing great Flutter projects 
+- 💞️ I’m looking to collaborate on doing great App Development projects 
 - 📫 How to reach me https://www.linkedin.com/in/anisha-vineeth-832447121/
 
 <!---
